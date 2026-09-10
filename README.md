@@ -498,14 +498,11 @@ in the same folder as this HTML file.
     <div class="gallery">
 
         <!-- Replace these with your own photos -->
+<img src="Snapchat-1278388407.jpg" alt="Memory 1">
+<img src="Snapchat-1523968012.jpg" alt="Memory 2">
+<img src="Snapchat-1572826670.jpg" alt="Memory 3">
+<img src="Snapchat-428587849.jpg" alt="Memory 4">
 
-        <img src="photo1.jpg" alt="Memory 1">
-
-        <img src="photo2.jpg" alt="Memory 2">
-
-        <img src="photo3.jpg" alt="Memory 3">
-
-        <img src="photo4.jpg" alt="Memory 4">
 
     </div>
 
